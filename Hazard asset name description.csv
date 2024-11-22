@@ -1,0 +1,23 @@
+﻿Layer Name,Description
+adm0,UNICEF/Georepo administrative level 0 shapefile
+Drgt_VCI_Freq,VCI (Vegetation Condition Index) Annual drought Frequency (2000 - 2022)
+Drgt_TCI_Freq,TCI (Temperature Condition Index) Annual drought Frequency (2000 - 2022)
+Drgt_SPIA_Freq,SPI (Standardized Precipitation Index) Annual drought frequency (2014 – 2023)
+Drgt_SPIQ_Freq,SPI (Standardized Precipitation Index) Quarterly drought frequency (2014 – 2023)
+Drgt_SPIQ_Trend,SPI (Standardized Precipitation Index) Quarterly  Trend (2014 – 2023)
+Deg_VCI_Trend,Annual VCI (Vegetation Condition Index) Trend
+HW_Frequency,Heatwave Frequency (2021 – 2023 with reference to 2001 – 2020 climatological reference period)
+HW_Severity,Heatwave Severity (2021 – 2023 with reference to 2001 – 2020 climatological reference period)
+HW_Duration,Heatwave Duration (2021 – 2023 with reference to 2001 – 2020 climatological reference period)
+HW_TX35,Mean annual days with temperature > 35°C (2021 – 2023 )
+HW_TX31,Mean annual days with temperature > 31°C (2021 – 2023 )
+CW_Frequency,Coldwave Frequency (2021 – 2023 with reference to 2001 – 2020 climatological reference period)
+CW_Severity,Coldwave Severity (2021 – 2023 with reference to 2001 – 2020 climatological reference period)
+CW_Duration,Coldwave Duration (2021 – 2023 with reference to 2001 – 2020 climatological reference period)
+CW_TXMinus15,Mean annual days with temperature <-15°C (2021 – 2023)
+Fld_SPIA_Freq,SPI (Standardized Precipitation Index) Annual Flood frequency (2014 – 2023)
+Fld_SPIQ_Freq,SPI (Standardized Precipitation Index) Annual Quarterly frequency (2014 – 2023)
+CountryList,"Table of Country names, iso3 and UNICEF regions"
+WFire_Freq,Wildfire Frequency (2001 – 2023)
+WFire_Int,Wildfire Intensity (2001 – 2023)
+WFire_FWI_LS,FWI - Fire Weather Index  (2001 – 2023)
