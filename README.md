@@ -8,7 +8,8 @@ A 2-page tutorial is shown in the slides saved here: <a href="https://github.com
 ![image](https://github.com/user-attachments/assets/5e7577db-5580-4579-a61a-d1e25115449a)
 The table above showing short descriptions of hazard assets is saved <a href="https://github.com/emopsraps/Subset-gridded-data-Using-GEE/blob/main/Hazard%20asset%20name%20description.csv">here</a>. To subset and download data in the Google Earth Engine environment, follow the quick diagram below. Do NOT edit any lines where the variables are predefined.
 
-![image](https://github.com/user-attachments/assets/84f61254-aa1d-477c-b717-3edf902b2692)
+![image](https://github.com/user-attachments/assets/c9e80d03-66bd-4b84-bbf1-140cd4441049) 
+
 
 
  
