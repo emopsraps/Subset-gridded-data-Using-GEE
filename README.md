@@ -6,7 +6,7 @@ The EMOPS RAPS GIS team has now uploaded gridded data useful for risk analysis t
 A 2-page tutorial is shown in the slides saved here: <a href="https://github.com/emopsraps/Subset-gridded-data-Using-GEE/blob/main/Gridded%20data%20subset%20using%20GEE.pdf">here</a>. The list of layers available as Google Earth Engine assets are shown below:
 
 ![image](https://github.com/user-attachments/assets/5e7577db-5580-4579-a61a-d1e25115449a)
-To subset and download data in the Google Earth Engine environment, follow the quick diagram below. Do NOT edit any lines where the variables are predefined.
+The table above showing short descriptions of hazard assets is saved <a href="https://github.com/emopsraps/Subset-gridded-data-Using-GEE/blob/main/Hazard%20asset%20name%20description.csv">here</a>. To subset and download data in the Google Earth Engine environment, follow the quick diagram below. Do NOT edit any lines where the variables are predefined.
 
 ![image](https://github.com/user-attachments/assets/84f61254-aa1d-477c-b717-3edf902b2692)
 
